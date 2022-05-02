@@ -1,6 +1,9 @@
 ```
-npm create vite
-cd web
-npm install
-npm run dev
+  npm create vite
+  cd web
+  npm install
+  npm run dev
+  npm install -D tailwindcss postcss autoprefixer
+  npx tailwindcss init -p
+
 ```
